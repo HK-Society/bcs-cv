@@ -1,5 +1,5 @@
 # Nettside for Bachelor-CV
-Hostes på Github Pages: [https://hk-society.github.io/bcs-cv/](https://bcs-cv.bragenr.com/)
+Hostes på Github Pages: https://bcs-cv.bragenr.com
 
 #### Brage Nesteby Reitan
 <a href="https://www.linkedin.com/in/bragenr/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
